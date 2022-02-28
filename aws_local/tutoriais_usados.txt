@@ -1,0 +1,6 @@
+1º.usado principalmente na criação da ui
+https://www.linkedin.com/pulse/simulando-serviços-aws-na-sua-máquina-com-localstack-james-g-silva/?originalSubdomain=pt
+
+
+2º. Usado para criar o bucket e dar upload nos dados.
+https://blog.geekhunter.com.br/aws-lambda-python-pycharm-localstack/
